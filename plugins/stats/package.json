@@ -1,8 +1,8 @@
 {
-  "name": "compromise-stats",
-  "description": "plugin for nlp-compromise",
+  "name": "@qbhub/compromise-stats",
+  "description": "forked plugin for nlp-compromise, for latest update",
   "version": "0.1.1",
-  "author": "Spencer Kelly <spencermountain@gmail.com> (http://spencermounta.in)",
+  "author": "Sean Ye <seanye24@gmail.com> (http://sye.dev)",
   "main": "./src/plugin.js",
   "unpkg": "./builds/compromise-stats.min.js",
   "type": "module",
