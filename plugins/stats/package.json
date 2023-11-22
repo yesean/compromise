@@ -1,5 +1,5 @@
 {
-  "name": "@qbhub/compromise-stats",
+  "name": "@seanye/compromise-stats",
   "description": "forked plugin for nlp-compromise, for latest update",
   "version": "0.1.1",
   "author": "Sean Ye <seanye24@gmail.com> (http://sye.dev)",
@@ -41,6 +41,5 @@
   "dependencies": {
     "efrt": "^2.5.0"
   },
-  "devDependencies": {},
   "license": "MIT"
 }
